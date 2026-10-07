@@ -1,1 +1,1 @@
-# clipengine-releases
+Official release files for ClipEngine.
